@@ -1,7 +1,7 @@
 # holiday_organizer
 
 Proje raporu ve ekran görüntüleri dosyanın içindeki word sayfasındadır. (TR) (HolidayAssist_Suphan_Yakut_Report.docx) </br>
-The project report and screenshots are on the word page inside the file.(EN) (HolidayAssist_Suphan_Yakut_Report.docx) 
+The project report and screenshots are on the word page inside the file.(EN) (HolidayAssist_Suphan_Yakut_Report.docx) </br></br>
  </br>
 GORA Assist, kullanıcıdan tatil yılı, izin sayısı ve tatilin türü bilgilerini alarak eğlenceli, yaratıcı ve mevsim şartlarına uygun tatil önerileri sunan bir tatil asistanı uygulamasıdır. Gora, çeşitli etkinliklere çeşitli günler bölerek nasıl tatil yapacağınıza dair yardımcı olur. (TR)  </br>
 
